@@ -87,18 +87,21 @@ The application is responsive and can be used on mobile, tablet, and desktop dev
 Contributing
 We welcome contributions to this project! If you want to improve the application, feel free to fork the repo and submit a pull request. Please make sure to follow the code style and conventions used in the project.
 
-# Steps to contribute:
+## Contributing
+We welcome contributions to this project! If you want to improve the application, feel free to fork the repo and submit a pull request. Please make sure to follow the code style and conventions used in the project.
 
+ Steps to contribute:
 Fork the repository.
 Create a new branch: git checkout -b feature-branch.
 Make your changes.
 Commit your changes: git commit -m "Add feature".
 Push to your fork: git push origin feature-branch.
 Open a pull request.
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Acknowledgements
+## Acknowledgements
 Tailwind CSS: https://tailwindcss.com
 React: https://reactjs.org
 Vite: https://vitejs.dev

@@ -62,3 +62,45 @@ The project leverages **React** for the frontend and **Tailwind CSS** for stylin
 
 Make sure you have **Node.js** and **npm** installed on your system. You can download Node.js from [here](https://nodejs.org).
 
+### Steps to Set Up the Project
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/abhishk8688/rbac-dashboard.git
+   cd rbac-dashboard
+2. **Install Dependencies**
+   npm install
+3. **Run the development server**
+   npm run dev
+ 
+
+## Usage
+# Adding and Managing Roles
+When you first load the page, you will see a table listing roles.
+Click on the "Add Role" button to create a new role, or click "Edit" next to an existing role to modify it.
+Each role has a set of permissions (Read, Write, Delete) which you can toggle on or off using checkboxes.
+# User Management
+Users can be added to roles, and their statuses can be toggled between active or inactive.
+# Responsive Design
+The application is responsive and can be used on mobile, tablet, and desktop devices. It adjusts automatically to different screen sizes.
+Contributing
+We welcome contributions to this project! If you want to improve the application, feel free to fork the repo and submit a pull request. Please make sure to follow the code style and conventions used in the project.
+
+# Steps to contribute:
+
+Fork the repository.
+Create a new branch: git checkout -b feature-branch.
+Make your changes.
+Commit your changes: git commit -m "Add feature".
+Push to your fork: git push origin feature-branch.
+Open a pull request.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgements
+Tailwind CSS: https://tailwindcss.com
+React: https://reactjs.org
+Vite: https://vitejs.dev
+
+
